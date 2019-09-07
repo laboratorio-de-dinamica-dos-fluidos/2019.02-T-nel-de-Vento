@@ -15,8 +15,9 @@ O estudo da Aerodinâmica consiste na verificação do comportamento do ar e sua
 Tanto as forças quanto os momentos são provenientes da distribuição de pressão e da tensão de cisalhamento sobre a superfície do corpo. Abaixo será apresentado um esquemático das forças e momentos em um perfil aerodinâmico.
 
 Tendo em vista, tais características para realização do experimento serão realizadas as seguintes etapas:
+
 -Dimensionamento do túnel de vento;
--Desenvolvimento de perfis aerodinâmicos em impressora 3D e cano PVC,a fim de verifiar os esforços e pesos de diferentes estruturas; 
+-Desenvolvimento de perfis aerodinâmicos em impressora 3D e cano PVC, a fim de verifiar os esforços e pesos de diferentes estruturas; 
 - Monitoramento e medição das variáveis: força de sustentação e força de arrasto;
 - Verificação do comportamento físico da parte estrutural;
 - Simulação e verificação das linhas de emissão, as quais poderam ser vizualizadas com a utilização de pedaços de barbante posicionados ao longo do perfil; 
