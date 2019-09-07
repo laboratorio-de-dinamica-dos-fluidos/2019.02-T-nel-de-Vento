@@ -12,7 +12,9 @@ Raiane Almeida Silva Vieira-17/0021220.
 ### 1.2 Escopo:
 O estudo da Aerodinâmica consiste na verificação do comportamento do ar e sua interação com um objeto sólido. Assim, a verificação das forças de arrasto e sustentação, bem como os momentos sobre um corpo e a determinação do comportamento do escoamento correspondem aos objetivos das análises aerodinâmicas.
 
-Tanto as forças quanto os momentos são provenientes da distribuição de pressão e da tensão de cisalhamento sobre a superfície do corpo. Abaixo será apresentado um esquemático das forças e momentos em um perfil aerodinâmico.
+Tanto as forças quanto os momentos são provenientes da distribuição de pressão e da tensão de cisalhamento sobre a superfície do corpo.
+
+Abaixo será apresentado um esquemático das forças e momentos em um perfil aerodinâmico.
 
 Tendo em vista, tais características para realização do experimento serão realizadas as seguintes etapas:
 
