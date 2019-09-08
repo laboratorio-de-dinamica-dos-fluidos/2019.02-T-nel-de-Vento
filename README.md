@@ -17,6 +17,9 @@ Tanto as forças quanto os momentos são provenientes da distribuição de press
 Abaixo será apresentado um esquemático das forças e momentos em um perfil aerodinâmico.
 
 ![perfil de asa](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/perfil%20de%20asa.PNG)
+
+**Figura 1**-Diagrama de forças aerodinâmicas  
+
 - &alpha; - ângulo de ataque 
 
 - L - sustentação 
@@ -45,4 +48,4 @@ Tendo em vista, tais características para realização do experimento serão re
  ## 2 Cronograma
  
 ![Planejamento e organização](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/Planejamento%20e%20Organiza%C3%A7%C3%A3o.jpg)
- **Figura 2 - Cronograma**
+ **Figura 2** - Cronograma
