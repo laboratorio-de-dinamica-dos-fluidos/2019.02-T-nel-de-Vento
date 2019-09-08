@@ -16,16 +16,32 @@ Tanto as forças quanto os momentos são provenientes da distribuição de press
 
 Abaixo será apresentado um esquemático das forças e momentos em um perfil aerodinâmico.
 
-Tendo em vista, tais características para realização do experimento serão realizadas as seguintes etapas:
+![perfil de asa](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/perfil%20de%20asa.PNG)
+- &alpha; - ângulo de ataque 
 
--Dimensionamento do túnel de vento;
--Desenvolvimento de perfis aerodinâmicos em impressora 3D e cano PVC, a fim de verifiar os esforços e pesos de diferentes estruturas; 
+- L - sustentação 
+
+- D - arrasto 
+
+- R - força resultante 
+
+- N - força normal 
+
+- c - corda da asa 
+
+- A - força axial 
+
+- V&infin; - velocidade do vento 
+
+
+Tendo em vista, tais características para realização do experimento serão realizadas as seguintes etapas:
+- Dimensionamento do túnel de vento;
+- Desenvolvimento de perfis aerodinâmicos em impressora 3D e cano PVC, a fim de verifiar os esforços e pesos de diferentes estruturas; 
 - Monitoramento e medição das variáveis: força de sustentação e força de arrasto;
 - Verificação do comportamento físico da parte estrutural;
 - Simulação e verificação das linhas de emissão, as quais poderam ser vizualizadas com a utilização de pedaços de barbante posicionados ao longo do perfil; 
 - Aquisição dos dados obtidos através de equipamentos eletrônicos e análise via software;
 -Comparação dos resultados obtidos aos cálculos teóricos.
- ## 2 Planejamento e Preparação
+ ## 2 Cronograma
  
 ![Planejamento e organização](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/Planejamento%20e%20Organiza%C3%A7%C3%A3o.jpg)
-Figura 2 - Cronograma
