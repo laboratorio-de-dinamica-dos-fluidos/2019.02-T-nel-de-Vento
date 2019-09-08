@@ -25,4 +25,5 @@ Tendo em vista, tais características para realização do experimento serão re
 - Simulação e verificação das linhas de emissão, as quais poderam ser vizualizadas com a utilização de pedaços de barbante posicionados ao longo do perfil; 
 - Aquisição dos dados obtidos através de equipamentos eletrônicos e análise via software;
 -Comparação dos resultados obtidos aos cálculos teóricos.
+ ## 2 Cronograma
  
