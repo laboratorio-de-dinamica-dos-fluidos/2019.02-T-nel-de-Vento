@@ -36,7 +36,6 @@ Abaixo será apresentado um esquemático das forças e momentos em um perfil aer
 
 - V&infin; - velocidade do vento. 
 
-
 Tendo em vista, tais características para realização do experimento serão realizadas as seguintes etapas:
 - Dimensionamento do túnel de vento;
 - Desenvolvimento de perfis aerodinâmicos em impressora 3D e cano PVC, a fim de verifiar os esforços e pesos de diferentes estruturas; 
@@ -45,6 +44,9 @@ Tendo em vista, tais características para realização do experimento serão re
 - Simulação e verificação das linhas de emissão, as quais poderam ser vizualizadas com a utilização de pedaços de barbante posicionados ao longo do perfil; 
 - Aquisição dos dados obtidos através de equipamentos eletrônicos e análise via software;
 - Comparação dos resultados obtidos aos cálculos teóricos.
+### 1.3 Viabilidade
+Para realizar o experimento é preciso de um túnel de vento, uma balança aerodinâmica e perfis de asas. O laboratório de termofluídos do Campus Gama da Universidade de Brasília, possui um túnel de vento e uma balança aerodinâmica, ambos atendem aos requisitos para a realização do experimento. Sabendo que já é de posse a maioria dos materiais a serem utilizados, os custos adicionais serão baixos e não será despendido muito tempo para montagem, assim conclui-se que é viável a execução do projeto. 
+
  # 2.Planejamento e preparação
  ## 2.1 Cronograma
  
