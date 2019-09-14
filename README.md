@@ -54,4 +54,5 @@ Para realizar o experimento é preciso de um túnel de vento, uma balança aerod
  **Figura 2** - Cronograma.
  ## 2.2 Dados Medidos
  Para realização do experimento deve-se inicialmente determinar a velocidade de escoamneto do túnel de vento. Dessa maneira, deve-se utilizar as euqações de Bernoulli e da continuidade, que serão apresentadas respectivamente a seguir:
- ![formula1](https://lh3.googleusercontent.com/QuoLhFWr0FRAlk0AZaQh4iM3PTWxSx1HQT71Bjl3xc5HnCtFu_uMJ8pCKmHMsjIauRhl2VGPztBr2lvI3ciKuMweSrSmagj7d1QKfxvx7_WOYQEXZwrFO7sJRzw39NLZtfBhFAJ2)
+ 
+
