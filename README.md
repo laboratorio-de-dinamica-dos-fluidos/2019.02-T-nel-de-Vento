@@ -55,6 +55,8 @@ Para realizar o experimento é preciso de um túnel de vento, uma balança aerod
  ## 2.2 Dados Medidos
  Para realização do experimento deve-se inicialmente determinar a velocidade de escoamneto do túnel de vento. Dessa maneira, é necessário utilizar as equações de Bernoulli e da continuidade, que serão apresentadas respectivamente a seguir:
  
+ ![Eq.Bernoulli](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/Eq.Bernoulli.PNG)(Eq.1)
+ 
  Consoante as equações apresentadas acima tem-se que V é a velocidade do vento, P é a pressão a qual o fluido está submetido, 𝜌 é
 a densidade do fluido, g é a aceleração da gravidade, z é a altura em que o fluido está, ademais considera-se as
 variáveis com o número 1 referentes aos dados para a maior seção do túnel de vento e 2 se refere à
@@ -65,6 +67,8 @@ seção menor. Isola-se a velocidade 𝑉1 da equação (2) e substitui na equa�
  A Sustentação corresponde a uma força aerodinâmica produzida pela ação do vento relativo
 em um aerofólio, influenciada por superfícies de controle. Um aerofólio que se move no ar produz a sustentação, pois exerce em sua
 superfície inferior uma pressão maior do que na superfície, essa diferença de pressão se dá devido a característica estrutural do aerofólio. Da mesma maneira pode-se considerar pra a força de Arrasto, no entanto deve-se levar em conta que essa força fornece uma resistência às aeronaves e por conseguinte redução da velocidade. Ambas forças dependem do ângulo de ataque.(ASSY,2004)
+
+![Eq.Continuidade](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/Eq.Continuidade.PNG)(Eq.2)
 
 Com relação as fórmulas apresentadas acima tem-se que 𝜌 representa a densidade do fluido, 𝑐𝑙 é o coeficiente de sustentação e 𝑐𝑑 é o
 coeficiente de arrasto, v é a velocidade, c é a corda do perfil, D é a força de Arrasto e S a força de Sustentação.
