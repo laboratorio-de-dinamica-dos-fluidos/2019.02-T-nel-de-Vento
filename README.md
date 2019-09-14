@@ -52,3 +52,6 @@ Para realizar o experimento é preciso de um túnel de vento, uma balança aerod
  
 ![Planejamento e organização](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/Planejamento%20e%20Organiza%C3%A7%C3%A3o.jpg)
  **Figura 2** - Cronograma.
+ ## 2.2 Dados Medidos
+ Para realização do experimento deve-se inicialmente determinar a velocidade de escoamneto do túnel de vento. Dessa maneira, deve-se utilizar as euqações de Bernoulli e da continuidade, que serão apresentadas respectivamente a seguir:
+ ![formula1](https://lh3.googleusercontent.com/QuoLhFWr0FRAlk0AZaQh4iM3PTWxSx1HQT71Bjl3xc5HnCtFu_uMJ8pCKmHMsjIauRhl2VGPztBr2lvI3ciKuMweSrSmagj7d1QKfxvx7_WOYQEXZwrFO7sJRzw39NLZtfBhFAJ2)
