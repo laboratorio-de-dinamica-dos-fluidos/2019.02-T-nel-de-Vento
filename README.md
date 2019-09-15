@@ -75,7 +75,7 @@ superfície inferior uma pressão maior do que na superfície, essa diferença d
 ![Eq.Arrasto](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/Eq.arrasto.PNG)(Eq.4)
 
 Com relação as fórmulas apresentadas acima tem-se que 𝜌 representa a densidade do fluido, 𝑐𝑙 é o coeficiente de sustentação e 𝑐𝑑 é o
-coeficiente de arrasto, v é a velocidade, c é a corda do perfil, D é a força de Arrasto e S a força de Sustentação.
+coeficiente de arrasto, v é a velocidade, c é a corda do perfil, D é a força de Arrasto e L a força de Sustentação.
 
 A visualização do escoamento em perfis aerodinâmicos é utilizada para aferir os resultados obtidos pelos métodos numéricos, normalmente, resultados obtidos em softwares
 de simulação. A geração de um escoamento laminar é imprescindível para a visualização
