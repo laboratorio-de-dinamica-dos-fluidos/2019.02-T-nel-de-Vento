@@ -52,6 +52,7 @@ Para realizar o experimento é preciso de um túnel de vento, uma balança aerod
  
 ![Planejamento e organização](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/Planejamento%20e%20Organiza%C3%A7%C3%A3o.jpg)
  **Figura 2** - Cronograma.
+ 
  As informações apresentadas acima são analisadas com determinados intervalos de tempo. Porém é necessário salientar que eventuais atrasos são possíveis, seja na aquisição dos materias, sua construção ou na organização do grupo.
  ## 2.2 Dados Medidos
  As informações apresentadas a seguir referem-se as fórmulas que os softwares XFLR5, bem como o desenvolvido pelos anlunos da disciplina de Projeto integrador 1 no primeiro semestre de 2019 usam para apresentar os valores da sustentação e arrasto.
