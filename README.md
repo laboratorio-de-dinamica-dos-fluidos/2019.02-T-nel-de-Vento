@@ -56,6 +56,7 @@ Para realizar o experimento é preciso de um túnel de vento, uma balança aerod
  As informações apresentadas acima são analisadas com determinados intervalos de tempo. Porém é necessário salientar que eventuais atrasos são possíveis, seja na aquisição dos materias, sua construção ou na organização do grupo.
  ## 2.2 Dados Medidos
  As informações apresentadas a seguir referem-se as fórmulas que os softwares XFLR5, bem como o desenvolvido pelos anlunos da disciplina de Projeto integrador 1 no primeiro semestre de 2019 usam para apresentar os valores da sustentação e arrasto.
+ 
  Para realização do experimento deve-se inicialmente determinar a velocidade de escoamento do túnel de vento. Dessa maneira, é necessário utilizar as equações de Bernoulli e da continuidade, que serão apresentadas respectivamente a seguir:
  
  ![Eq.Bernoulli](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/Eq.Bernoulli.PNG)(Eq.1)
