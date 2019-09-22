@@ -90,7 +90,6 @@ num dado instante, são tangentes à direção do escoamento em cada ponto do ca
 ## 2.3 Resultados Esperados
  O experimento visa validar os gráficos "cl versus ângulo de ataque" e "cd versus ângulo de ataque" simulados via software. Bem como, mostrar o efeito dinâmico sobre o escoamento ao se analisar determinado ângulo de ataque no aerofólio.
  
- #3.Execução
  
  
  # Referências
