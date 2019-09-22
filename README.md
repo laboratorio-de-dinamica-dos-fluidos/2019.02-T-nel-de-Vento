@@ -95,10 +95,17 @@ num dado instante, são tangentes à direção do escoamento em cada ponto do ca
  Não houve mudanças. A divisão das tarefas permanece a mesma do tópico "2.1 Cronograma".
  ## 3.2 Foto do Experimento Montado
  ![Foto Experimento Montado e Aerofólio](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/Foto%20Experimento%20Montado%20e%20Aerof%C3%B3lio.jpeg)
- ** Figura 3**-Foto do Experimento Montado com um dos aerofólios
-
+ 
+ **Figura 3**-Foto do Experimento Montado com um dos aerofólios
+ 
  ![Foto Experimento Montado](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/Foto%20Experimento%20Montado.jpeg)
- ** Figura 4**-Foto do Experimento Montado
+ 
+ **Figura 4**-Foto do Experimento Montado
+ 
+![Perfil Cilíndrico](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/Perfil%20Cilindrico.jpeg)
+
+ **Figura 5**-Foto do Perfil Cilíndrico
+ 
 
  
  # Referências
