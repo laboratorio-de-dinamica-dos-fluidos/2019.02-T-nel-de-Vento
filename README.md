@@ -90,6 +90,13 @@ num dado instante, são tangentes à direção do escoamento em cada ponto do ca
 ## 2.3 Resultados Esperados
  O experimento visa validar os gráficos "cl versus ângulo de ataque" e "cd versus ângulo de ataque" simulados via software. Bem como, mostrar o efeito dinâmico sobre o escoamento ao se analisar determinado ângulo de ataque no aerofólio.
  
+ # 3 Execução
+ ## 3.1 Divisão das Tarefas
+ Não houve mudanças. A divisão das tarefas permanece a mesma do tópico "2.1 Cronograma".
+ ## 3.2 Foto do Experimento Montado
+ ![Foto Experimento Montado e Aerofólio](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/Foto%20Experimento%20Montado%20e%20Aerof%C3%B3lio.jpeg)
+ 
+
  
  
  # Referências
