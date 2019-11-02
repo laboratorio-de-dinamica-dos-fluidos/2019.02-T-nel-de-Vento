@@ -41,7 +41,7 @@ Tendo em vista, tais características para realização do experimento serão re
 - Desenvolvimento de perfis aerodinâmicos em impressora 3D e cano PVC, a fim de verifiar os esforços e pesos de diferentes estruturas; 
 - Monitoramento e medição das variáveis: força de sustentação e força de arrasto;
 - Verificação do comportamento físico da parte estrutural;
-- Simulação e verificação das linhas de emissão, as quais poderam ser vizualizadas com a utilização de pedaços de barbante posicionados ao longo do perfil; 
+- Simulação e verificação das linhas de emissão, as quais poderam ser vizualizadas com a utilização de pedaços de plástico posicionados ao longo do perfil; 
 - Aquisição dos dados obtidos através de equipamentos eletrônicos e análise via software;
 - Comparação dos resultados obtidos aos cálculos teóricos.
 ### 1.3 Viabilidade
@@ -55,7 +55,7 @@ Para realizar o experimento é preciso de um túnel de vento, uma balança aerod
  
  As informações apresentadas acima são analisadas com determinados intervalos de tempo. Porém é necessário salientar que eventuais atrasos são possíveis, seja na aquisição dos materias, sua construção ou na organização do grupo.
  ## 2.2 Dados Medidos
- As informações apresentadas a seguir referem-se as fórmulas que os softwares XFLR5, bem como o desenvolvido pelos anlunos da disciplina de Projeto integrador 1 no primeiro semestre de 2019 usam para apresentar os valores da sustentação e arrasto.
+ As informações apresentadas a seguir referem-se as fórmulas que os softwares XFLR5, bem como o desenvolvido pelos alunos da disciplina de Projeto integrador 1 no primeiro semestre de 2019 usam para apresentar os valores da sustentação e arrasto.
  
  Para realização do experimento deve-se inicialmente determinar a velocidade de escoamento do túnel de vento. Dessa maneira, é necessário utilizar as equações de Bernoulli e da continuidade, que serão apresentadas respectivamente a seguir:
  
@@ -92,7 +92,7 @@ num dado instante, são tangentes à direção do escoamento em cada ponto do ca
  
  # 3 Execução
  ## 3.1 Divisão das Tarefas
- Não houve mudanças. A divisão das tarefas permanece a mesma do tópico "2.1 Cronograma".
+ Não houve mudanças. A divisão das tarefas permanece a mesma do tópico "2.1 Cronograma". 
  ## 3.2 Foto do Experimento Montado
  ![Foto Experimento Montado e Aerofólio](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/Foto%20Experimento%20Montado%20e%20Aerof%C3%B3lio.jpeg)
  
@@ -100,12 +100,19 @@ num dado instante, são tangentes à direção do escoamento em cada ponto do ca
  
  ![Foto Experimento Montado](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/Foto%20Experimento%20Montado.jpeg)
  
- **Figura 4**-Foto do Experimento Montado
+ **Figura 4**-Foto do Experimento Montado.
  
 ![Perfil Cilíndrico](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/Perfil%20Cilindrico.jpeg)
 
- **Figura 5**-Foto do Perfil Cilíndrico
+ **Figura 5**-Foto do Perfil Cilíndrico.
  
+ ## 3.3 Procedimentos realizados
+ Inicialmente, foi realizado a calibração da balança aerodinâmica acoplada ao túnel de vento. Posteriormente, determinou-se a velocidade do túnel de vento com auxílio de um anemômetro. Posicionou-se os perfis a serem analisados no túnel de vento, observando-se as linhas de corrente, bem como os valores apresentados no software da balança para o coeficiente de sustentação e de arrasto para diferentes inclinações.
+ 
+ # 4 Análise e Conclusão
+ ## 4.1 Resultados Obtidos
+  Por meio da utilização de um anemômetro verificou-se o seguinte valor da velocidade no túnel de vento. Conforme figura a seguir:
+ ## 4.2 Considerações finais
 
  
  # Referências
