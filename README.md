@@ -107,7 +107,7 @@ num dado instante, são tangentes à direção do escoamento em cada ponto do ca
  **Figura 5**-Foto do Perfil Cilíndrico.
  
  ## 3.3 Procedimentos realizados
- Inicialmente, foi realizado a calibração da balança aerodinâmica acoplada ao túnel de vento. Posteriormente, determinou-se a velocidade do túnel de vento com auxílio de um anemômetro. Posicionou-se os perfis a serem analisados no túnel de vento, observando-se as linhas de corrente, bem como os valores apresentados no software da balança para o coeficiente de sustentação e de arrasto para diferentes inclinações.
+ Inicialmente, foi realizado a calibração da balança aerodinâmica acoplada ao túnel de vento. Posteriormente, determinou-se a velocidade no túnel de vento com auxílio de um anemômetro. Posicionou-se os perfis a serem analisados, observando-se as linhas de corrente, bem como os valores apresentados no software da balança para o coeficiente de sustentação e de arrasto em diferentes inclinações.
  
  # 4 Análise e Conclusão
  ## 4.1 Resultados Obtidos
