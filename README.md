@@ -1,4 +1,3 @@
-inclua biblioteca Matematica --> mat
 # 2019.02-Tunel-de-Vento
 # 1.Início
 ## Tema: Experimentos em Túnel de Vento
@@ -114,7 +113,7 @@ num dado instante, são tangentes à direção do escoamento em cada ponto do ca
   
   **Figura 5** - Resultado da velocidade medida experimentalmente no túnel de vento.
   
-  Adotou-se a densidade d= 1,225 kg/(mat.potencia(m,3.0)), a velocidade do anenômetro, corda (d)= 0,08 m.
+  Adotou-se a densidade d= 1,225 kg/m^3, a velocidade do anenômetro, corda (d)= 0,08 m.
   
   Os resultados do coeficiente de sustentação obtidos para o perfil em análise (NACA0012), variando-se o ângulo de ataque, será apresentado a seguir:
   
@@ -122,11 +121,11 @@ num dado instante, são tangentes à direção do escoamento em cada ponto do ca
   
   **Figura 6** - Valores do coeficiente de sustentação (cl) para diferentes ângulos de ataque.
   
-  Obteve-se os seguintes valores para as forças por unidade de comprimento (L e D) a dierentes inclinações. Conforme seguinte figura:
+  Obteve-se os seguintes valores para as forças por unidade de comprimento (L e D) a diferentes inclinações. Conforme seguinte figura:
   
   ![alpha.L.D.experimentais](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/alfa.L.D.experimentais.png)
   
-  **Figura 7** - Valores das forças de Sutentação e arrasto nas inclinações analisadas.
+  **Figura 7** - Valores das forças de Sutentação e Arrasto nas inclinações analisadas.
   
  ## 4.2 Considerações finais
 
