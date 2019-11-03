@@ -38,7 +38,7 @@ Abaixo será apresentado um esquemático das forças e momentos em um perfil aer
 
 Tendo em vista, tais características para realização do experimento serão realizadas as seguintes etapas:
 - Determinar a dimensão física do túnel de vento;
-- Desenvolvimento de perfis aerodinâmicos em impressora 3D e cano PVC, a fim de verifiar os esforços e pesos de diferentes estruturas; 
+- Desenvolvimento de perfil aerodinâmico em impressora 3D a fim de verifiar os esforços e peso; 
 - Monitoramento e medição das variáveis: força de sustentação e força de arrasto;
 - Verificação do comportamento físico da parte estrutural;
 - Simulação e verificação das linhas de emissão, as quais poderam ser vizualizadas com a utilização de pedaços de plástico posicionados ao longo do perfil; 
@@ -101,10 +101,6 @@ num dado instante, são tangentes à direção do escoamento em cada ponto do ca
  ![Foto Experimento Montado](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/Foto%20Experimento%20Montado.jpeg)
  
  **Figura 4**-Foto do Experimento Montado.
- 
-![Perfil Cilíndrico](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/Perfil%20Cilindrico.jpeg)
-
- **Figura 5**-Foto do Perfil Cilíndrico.
  
  ## 3.3 Procedimentos realizados
  Inicialmente, foi realizado a calibração da balança aerodinâmica acoplada ao túnel de vento. Posteriormente, determinou-se a velocidade no túnel de vento com auxílio de um anemômetro. Posicionou-se os perfis a serem analisados, observando-se as linhas de corrente, bem como os valores apresentados no software da balança para o coeficiente de sustentação e de arrasto em diferentes inclinações.
