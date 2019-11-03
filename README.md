@@ -108,6 +108,10 @@ num dado instante, são tangentes à direção do escoamento em cada ponto do ca
  # 4 Análise e Conclusão
  ## 4.1 Resultados Obtidos
   Por meio da utilização de um anemômetro verificou-se o seguinte valor da velocidade no túnel de vento. Conforme figura a seguir:
+  
+  ![anemometro](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/anemometro.jpeg)
+  
+  **Figura 5** - Resultado da velocidade medida experimentalmente no túnel de vento.
  ## 4.2 Considerações finais
 
  
