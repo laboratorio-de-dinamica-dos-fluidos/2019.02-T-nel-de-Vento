@@ -1,3 +1,4 @@
+inclua biblioteca Matematica --> mat
 # 2019.02-Tunel-de-Vento
 # 1.Início
 ## Tema: Experimentos em Túnel de Vento
@@ -55,7 +56,7 @@ Para realizar o experimento é preciso de um túnel de vento, uma balança aerod
  
  As informações apresentadas acima são analisadas com determinados intervalos de tempo. Porém é necessário salientar que eventuais atrasos são possíveis, seja na aquisição dos materias, sua construção ou na organização do grupo.
  ## 2.2 Dados Medidos
- As informações apresentadas a seguir referem-se as fórmulas que os softwares XFLR5, bem como o desenvolvido pelos alunos da disciplina de Projeto integrador 1 no primeiro semestre de 2019 usam para apresentar os valores da sustentação e arrasto.
+ As informações apresentadas a seguir referem-se as fórmulas que os softwares ANSYS, bem como o desenvolvido pelos alunos da disciplina de Projeto integrador 1 no primeiro semestre de 2019 usam para apresentar os valores da sustentação e arrasto.
  
  Para realização do experimento deve-se inicialmente determinar a velocidade de escoamento do túnel de vento. Dessa maneira, é necessário utilizar as equações de Bernoulli e da continuidade, que serão apresentadas respectivamente a seguir:
  
@@ -68,7 +69,7 @@ a densidade do fluido, g é a aceleração da gravidade, z é a altura em que o 
 variáveis com o número 1 referentes aos dados para a maior seção do túnel de vento e 2 se refere à
 seção menor. Isola-se a velocidade 𝑉1 da equação (2) e substitui na equação (1), podendo-se obter assim, as velocidades 𝑉1 e 𝑉2.
 
- Ademais, para vizualizar as linhas de emissão para diferentes ângulos de ataque, em especial no ângulo de estol, no qual há uma perda total de sustentação da asa, já que ocorre uma variação da camada limite. Tais características serão vizualizadas, bem como simuladas no programa XFLR5.
+ Ademais, para vizualizar as linhas de emissão para diferentes ângulos de ataque, em especial no ângulo de estol, no qual há uma perda total de sustentação da asa, já que ocorre uma variação da camada limite. Tais características serão vizualizadas, bem como simuladas no programa ANSYS.
  
  A Sustentação corresponde a uma força aerodinâmica produzida pela ação do vento relativo
 em um aerofólio, influenciada por superfícies de controle. Um aerofólio que se move no ar produz a sustentação, pois exerce em sua
@@ -112,6 +113,21 @@ num dado instante, são tangentes à direção do escoamento em cada ponto do ca
   ![anemometro](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/anemometro.jpeg)
   
   **Figura 5** - Resultado da velocidade medida experimentalmente no túnel de vento.
+  
+  Adotou-se a densidade d= 1,225 kg/(mat.potencia(m,3.0)), a velocidade do anenômetro, corda (d)= 0,08 m.
+  
+  Os resultados do coeficiente de sustentação obtidos para o perfil em análise (NACA0012), variando-se o ângulo de ataque, será apresentado a seguir:
+  
+  ![cl.alpha.experimental.obtido](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/cl.alpha.experimental.obtido.png)
+  
+  **Figura 6** - Valores do coeficiente de sustentação (cl) para diferentes ângulos de ataque.
+  
+  Obteve-se os seguintes valores para as forças por unidade de comprimento (L e D) a dierentes inclinações. Conforme seguinte figura:
+  
+  ![alpha.L.D.experimentais](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/alfa.L.D.experimentais.png)
+  
+  **Figura 7** - Valores das forças de Sutentação e arrasto nas inclinações analisadas.
+  
  ## 4.2 Considerações finais
 
  
