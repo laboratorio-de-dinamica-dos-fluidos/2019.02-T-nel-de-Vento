@@ -41,7 +41,7 @@ Tendo em vista, tais características para realização do experimento serão re
 - Desenvolvimento de perfil aerodinâmico em impressora 3D a fim de verifiar os esforços e peso; 
 - Monitoramento e medição das variáveis: força de sustentação e força de arrasto;
 - Verificação do comportamento físico da parte estrutural;
-- Simulação e verificação das linhas de emissão, as quais poderam ser vizualizadas com a utilização de pedaços de plástico posicionados ao longo do perfil; 
+- Simulação e verificação das linhas de emissão, as quais poderam ser visualizadas com a utilização de pedaços de plástico posicionados ao longo do perfil; 
 - Aquisição dos dados obtidos através de equipamentos eletrônicos e análise via software;
 - Comparação dos resultados obtidos aos cálculos teóricos.
 ### 1.3 Viabilidade
