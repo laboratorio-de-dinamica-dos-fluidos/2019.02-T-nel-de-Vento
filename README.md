@@ -132,7 +132,9 @@ num dado instante, são tangentes à direção do escoamento em cada ponto do ca
  ![SimulaçãoXFLR5.png](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/Simula%C3%A7%C3%A3oXFLR5.png)
  **Figura 8** - Simulação do aerofólio NACA 0012 no software XFLR5.
 ![Comparação.Experimental.Simulação.png](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/Compara%C3%A7%C3%A3o.Experimental.Simula%C3%A7%C3%A3o.png)
- **Figura 8** - Comparação gráfica entre os resultados experimentais e simulados para verificação de erros.
+ 
+ 
+ **Figura 9** - Comparação gráfica entre os resultados experimentais e simulados para verificação de erros.
 
  # Referências
  ASSY, T. Mecânica dos Fluidos - Fundamentos e Aplicações. Editora LTC. 2a Ed. Rio de Janeiro, 2004.
