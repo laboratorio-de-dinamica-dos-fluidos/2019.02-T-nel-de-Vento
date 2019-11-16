@@ -43,7 +43,7 @@ Tendo em vista, tais características para realização do experimento serão re
 - Verificação do comportamento físico da parte estrutural;
 - Simulação e verificação das linhas de emissão, as quais poderam ser visualizadas com a utilização de pedaços de plástico posicionados ao longo do perfil; 
 - Aquisição dos dados obtidos através de equipamentos eletrônicos e análise via software;
-- Comparação dos resultados obtidos aos cálculos teóricos.
+- Comparação dos resultados obtidos experimelntalmente e simulados.
 ### 1.3 Viabilidade
 Para realizar o experimento é preciso de um túnel de vento, uma balança aerodinâmica e perfis de asas. O laboratório de termofluídos do Campus Gama da Universidade de Brasília, possui um túnel de vento e uma balança aerodinâmica, a qual foi projetada e desenvolvida pelos alunos da disciplina de Projeto Integrador 1 no primeiro semestre de 2019, ambos atendem aos requisitos para a realização do experimento. Sabendo que já é de posse a maioria dos materiais a serem utilizados, os custos adicionais serão baixos e não será despendido muito tempo para montagem, assim conclui-se que é viável a execução do projeto. 
 
@@ -55,7 +55,7 @@ Para realizar o experimento é preciso de um túnel de vento, uma balança aerod
  
  As informações apresentadas acima são analisadas com determinados intervalos de tempo. Porém é necessário salientar que eventuais atrasos são possíveis, seja na aquisição dos materias, sua construção ou na organização do grupo.
  ## 2.2 Dados Medidos
- As informações apresentadas a seguir referem-se as fórmulas que os softwares ANSYS, bem como o desenvolvido pelos alunos da disciplina de Projeto integrador 1 no primeiro semestre de 2019 usam para apresentar os valores da sustentação e arrasto.
+ As informações apresentadas a seguir referem-se as fórmulas que os softwares XLFR5, bem como o desenvolvido pelos alunos da disciplina de Projeto integrador 1 no primeiro semestre de 2019 usam para apresentar os valores da sustentação e arrasto.
  
  Para realização do experimento deve-se inicialmente determinar a velocidade de escoamento do túnel de vento. Dessa maneira, é necessário utilizar as equações de Bernoulli e da continuidade, que serão apresentadas respectivamente a seguir:
  
@@ -68,7 +68,7 @@ a densidade do fluido, g é a aceleração da gravidade, z é a altura em que o 
 variáveis com o número 1 referentes aos dados para a maior seção do túnel de vento e 2 se refere à
 seção menor. Isola-se a velocidade 𝑉1 da equação (2) e substitui na equação (1), podendo-se obter assim, as velocidades 𝑉1 e 𝑉2.
 
- Ademais, para vizualizar as linhas de emissão para diferentes ângulos de ataque, em especial no ângulo de estol, no qual há uma perda total de sustentação da asa, já que ocorre uma variação da camada limite. Tais características serão vizualizadas, bem como simuladas no programa ANSYS.
+ Ademais, para vizualizar as linhas de emissão para diferentes ângulos de ataque, em especial no ângulo de estol, no qual há uma perda total de sustentação da asa, já que ocorre uma variação da camada limite. Tais características serão vizualizadas, bem como simuladas no programa XLFR5.
  
  A Sustentação corresponde a uma força aerodinâmica produzida pela ação do vento relativo
 em um aerofólio, influenciada por superfícies de controle. Um aerofólio que se move no ar produz a sustentação, pois exerce em sua
@@ -127,10 +127,13 @@ num dado instante, são tangentes à direção do escoamento em cada ponto do ca
   
   **Figura 7** - Valores das forças de Sutentação e Arrasto nas inclinações analisadas.
   
+  Referente a simulação tem-se o seguinte resultado obtido:
+  
+   ![SimulaçãoXFLR5.png](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/Simula%C3%A7%C3%A3oXFLR5.png)
+ **Figura 8** - Simulação do aerofólio NACA 0012 no software XFLR5.
+  
  ## 4.2 Considerações finais
 
- ![SimulaçãoXFLR5.png](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/Simula%C3%A7%C3%A3oXFLR5.png)
- **Figura 8** - Simulação do aerofólio NACA 0012 no software XFLR5.
 ![Comparação.Experimental.Simulação.png](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/Compara%C3%A7%C3%A3o.Experimental.Simula%C3%A7%C3%A3o.png)
  
  
