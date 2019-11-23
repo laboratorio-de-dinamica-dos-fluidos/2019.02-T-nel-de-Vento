@@ -134,6 +134,8 @@ num dado instante, são tangentes à direção do escoamento em cada ponto do ca
  
  Tanto o software associado a balança, quanto o programa XFLR5 utilizaram como base as equações 3 e 4, para determinação do coeficiente de sustentação e arrasto (cl, cd), bem como das forças de sustentação e arrasto (L, D).
   
+  [![linha.de.corrente](https://www.youtube.com/watch?v=iBikIiG30e4)](https://www.youtube.com/watch?v=iBikIiG30e4)
+  
  ## 4.2 Considerações finais
  
  A partir dos resultados obtidos experimentalmente e apresentados nas figuras 6 e 7 e comparando-os com os valores determinados por meio da simulação no XFLR5 ilustrada na figura 8, por meio de gráficos os quais apresentam os valores de cl e cd para diferentes ângulos de ataque, realizou-se um gráfico comparativo, a fim de mostrar os valores do experimento e simulação conjuntamente.
