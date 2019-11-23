@@ -130,11 +130,14 @@ num dado instante, são tangentes à direção do escoamento em cada ponto do ca
   Referente a simulação tem-se o seguinte resultado obtido:
   
    ![SimulaçãoXFLR5.png](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/Simula%C3%A7%C3%A3oXFLR5.png)
+   
  **Figura 8** - Simulação do aerofólio NACA 0012 no software XFLR5.
  
  Tanto o software associado a balança, quanto o programa XFLR5 utilizaram como base as equações 3 e 4, para determinação do coeficiente de sustentação e arrasto (cl, cd), bem como das forças de sustentação e arrasto (L, D).
   
-  [![linha.de.corrente](https://www.youtube.com/watch?v=iBikIiG30e4)](https://www.youtube.com/watch?v=iBikIiG30e4)
+   [![linha.de.corrente](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/linhas%20de%20corrente.jpg)](https://www.youtube.com/watch?v=iBikIiG30e4)
+   
+   (Clique na imagem para assistir o video da simulção de linhas de corrente)
   
  ## 4.2 Considerações finais
  
