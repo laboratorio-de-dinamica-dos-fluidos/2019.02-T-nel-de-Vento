@@ -140,8 +140,19 @@ num dado instante, são tangentes à direção do escoamento em cada ponto do ca
 
 ![Comparação.Experimental.Simulação.png](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/Compara%C3%A7%C3%A3o.Experimental.Simula%C3%A7%C3%A3o.png)
  
- 
  **Figura 9** - Comparação gráfica entre os resultados experimentais e simulados para verificação de erros.
+ 
+ Por meio do gráfico acima percebe-se que a diferença entre os valores de cl para a simulação e experimento é pequena e deve-se provavelmente a algumas simplificações realizadas pelo programa XFLR5, já que esse considera um escoamento muito próximo ao ideal, porém na prática tem algumas variações. Outras considerações serão apresentadas a seguir:
+- Pode ter ocorrido vibrações na bancada onde encontra-se o túnel de vento, bem como erros de calibração da balança aerodinâmica utilizada. 
+- Mesmo a superfície interna do túnel de vento estando próxima ao ideal, há rugosidades. 
+-A estrutura do túnel não estava em boas condições de encaixe na junção dos tubos. 
+-Quanto a alteração manual do perfil para cada angulação, pode não ter sido tão precisa. 
+- Pode haver erro associado à diferença de valores padrões (utilizados nas fórmulas e simulações) e de valores reais.
+
+ Apesar de tais valores distinguirem entre os testes físicos e os da balança, pode-se considerar tais medidas aceitáveis, tendo em vista que o erro é de cerca de algumas casas decimais, tal erro acaba por influenciar no valor um pouco distinto da força de sustentação e de arrasto (S, L, respectivamente).
+
+ Dessarte, pode-se dizer que as propostas inicialmente realizadas foram cumpridas, ou seja, obteve-se valores próximos experimentais e simulados para o coeficiente de sustentação e arrasto, bem como verificou-se a presença de linhas de corrente, por meio do vídeo 1 apresentado nos resultados obtidos.
+
 
  # Referências
  ASSY, T. Mecânica dos Fluidos - Fundamentos e Aplicações. Editora LTC. 2a Ed. Rio de Janeiro, 2004.
