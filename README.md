@@ -137,12 +137,12 @@ num dado instante, são tangentes à direção do escoamento em cada ponto do ca
   
    [![linha.de.corrente](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/linhas%20de%20corrente.jpg)](https://www.youtube.com/watch?v=iBikIiG30e4)
    
-   **Video 1** - Exemplificação das linhas de corrente
+   **Video 1** - Exemplificação das linhas de corrente.
    
    (Clique na imagem para assistir o video da simulção de linhas de corrente)
   ![coleta.de.dados](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/processo%20de%20coleta%20de%20dados.jpeg)
   
-  **Figura 9** - Coleta de dados do aerofólio NACA0012 
+  **Figura 9** - Coleta de dados do aerofólio NACA0012.
   
  ## 4.2 Considerações finais
  
