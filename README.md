@@ -137,7 +137,12 @@ num dado instante, são tangentes à direção do escoamento em cada ponto do ca
   
    [![linha.de.corrente](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/linhas%20de%20corrente.jpg)](https://www.youtube.com/watch?v=iBikIiG30e4)
    
+   **Video 1** - Exemplificação das linhas de corrente
+   
    (Clique na imagem para assistir o video da simulção de linhas de corrente)
+  ![coleta.de.dados](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/processo%20de%20coleta%20de%20dados.jpeg)
+  
+  **Figura 9** - Coleta de dados do aerofólio NACA0012 
   
  ## 4.2 Considerações finais
  
@@ -145,7 +150,7 @@ num dado instante, são tangentes à direção do escoamento em cada ponto do ca
 
 ![Comparação.Experimental.Simulação.png](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.02-Tunel-de-Vento/blob/master/Compara%C3%A7%C3%A3o.Experimental.Simula%C3%A7%C3%A3o.png)
  
- **Figura 9** - Comparação gráfica entre os resultados experimentais e simulados para verificação de erros.
+ **Figura 10** - Comparação gráfica entre os resultados experimentais e simulados para verificação de erros.
  
  Por meio do gráfico acima percebe-se que a diferença entre os valores de cl para a simulação e experimento é pequena e deve-se provavelmente a algumas simplificações realizadas pelo programa XFLR5, já que esse considera um escoamento muito próximo ao ideal, porém na prática tem algumas variações. Outras considerações serão apresentadas a seguir:
 - Pode ter ocorrido vibrações na bancada onde encontra-se o túnel de vento, bem como erros de calibração da balança aerodinâmica utilizada. 
